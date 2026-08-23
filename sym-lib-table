@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ABM8-272-T3") (type "KiCad") (uri "${KIPRJMOD}/ul_ABM8-272-T3/KiCADv6/2026-08-21_00-27-52.kicad_sym") (options "") (descr ""))
+)
