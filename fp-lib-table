@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "0480370001") (type "KiCad") (uri "${KIPRJMOD}/ul_480370001/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "ABM8-272-T3") (type "KiCad") (uri "${KIPRJMOD}/ul_ABM8-272-T3/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "TS-1088-AR02016") (type "KiCad") (uri "${KIPRJMOD}/ul_TS-1088-AR02016/KiCADv6/footprints.pretty") (options "") (descr ""))
 )
