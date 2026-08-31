@@ -24,3 +24,10 @@ I started working on the PCB layout. I want to have two Kailh Choc switches, bot
 
 ![image](./screenshots/3.png)
 ![image](./screenshots/4.png)
+
+## August 30th: Switching to the STM32 (3 hours)
+
+I spent a bit more time trying to get everything to fit with the rp2040, but it just wasn't gonna work. I decided to switch to the STM32, which supports USB HID and is physically very small. One thing I liked about it's datasheet is this diagram showing the exact part number combos:
+![image](./screenshots/5.png)
+I also changed the 3v3 regulator to smaller one, cuz the one the rp2040 design guide recommends was much too big. The STM32 is quite easy to wire up, which I liked. I also got to power and some of the other routing done:
+![image](./screenshots/6.png)
