@@ -31,3 +31,7 @@ I spent a bit more time trying to get everything to fit with the rp2040, but it 
 ![image](./screenshots/5.png)
 I also changed the 3v3 regulator to smaller one, cuz the one the rp2040 design guide recommends was much too big. The STM32 is quite easy to wire up, which I liked. I also got to power and some of the other routing done:
 ![image](./screenshots/6.png)
+
+## September 3rd: 80/20, 20/80 (2 hours 30 minutes)
+
+The first 80% takes 20% of the effort, and the last 20% takes 80%. Maybe not that extreme, but pretty close. I ran the DRC and discovered that there were quite a few issues, including overlapping components. Additionally, I remembered to add a level shifter for the LED data line. I also had to source parts for everything. Around half of the parts are being assembled by JLCPCB. The rest include the Sk6812MINI-Es, the USB-A plug, the Kailh switches, and the keycaps (obviously JLC isn't soldering on the keycaps). I'm getting the LEDs, the keycaps, and the switches from [Keebs.io](https://keebs.io). I'm getting the USB-A plug from Digikey, and I'm also getting a SWD programmer from Waveshare.

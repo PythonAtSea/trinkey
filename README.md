@@ -1,6 +1,8 @@
 # Trinkey
 
+![hero image](./docs/images/1.png)
 ![hero image](./docs/images/0.png)
+![hero image](./docs/images/2.png)
 
 Trinkey is a STM32 based keychain trinket. It has two Kailh switches, each with  a MBK low profile keycap and a reverse mounted SK6812MINI-E RGB LED. Additionally, there are two more reverse mounted SK6812MINI-E next to the keyring. It also has a male USB-A plug which powers the device and provides USB FS connectivity. 
 
